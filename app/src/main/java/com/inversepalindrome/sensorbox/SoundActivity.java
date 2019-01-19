@@ -34,7 +34,7 @@ public class SoundActivity extends AppCompatActivity {
     private ImageView recordButton;
 
     private final int AUDIO_REQUEST_CODE = 200;
-    private final int AUDIO_RECORDING_DELAY = 1000;
+    private final int AUDIO_RECORDING_DELAY = 200;
     private final int maxDecibelScale = 120;
 
     private final double REFERENCE_AMPLITUDE = 1.0;
